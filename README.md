@@ -34,10 +34,10 @@ To deploy this project run
   npm run deploy
 ```
 ## Contributors
- - Aby Stalin
- - Akshit Sudheer Kumar
- - Akhbar Sha
- - Shrish Nandakumar
+ - [Aby Stalin](https://github.com/Alby0n)
+ - [Akshit Sudheer Kumar](https://github.com/4k5h1t)
+ - [Akhbar Sha](https://github.com/AkhbarSha)
+ - [Shrish Nandakumar](https://github.com/shrishn)
 
 Contributions are always welcome!
 
