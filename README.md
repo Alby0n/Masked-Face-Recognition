@@ -1,4 +1,5 @@
 
+
 # Masked Face Regonition
 
 We should be able to identify subjects from CCTV footages even
@@ -33,14 +34,19 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
-## Contributors
- - [Aby Stalin](https://github.com/Alby0n)
- - [Akshit Sudheer Kumar](https://github.com/4k5h1t)
- - [Akhbar Sha](https://github.com/AkhbarSha)
- - [Shrish Nandakumar](https://github.com/shrishn)
+
+
+## Contributing
 
 Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
+
+
+## Contributors
+[![portfolio](https://img.shields.io/badge/Aby_Stalin-0AF?style=for-the-badge&logo=ReverbNation&logoColor=White)](https://github.com/Alby0n)
+[![portfolio](https://img.shields.io/badge/Akhbar_Sha-D62?style=for-the-badge&logo=Ghostery&logoColor=white)](https://github.com/AkhbarSha)
+[![portfolio](https://img.shields.io/badge/Shrish_Nandakumar-E23?style=for-the-badge&logo=1001Tracklists&logoColor=black)](https://github.com/shrishn)
+[![portfolio](https://img.shields.io/badge/Akshit_Sudheer_Kumar-000?style=for-the-badge&logo=Starship&logoColor=red)](https://github.com/4k5h1t)
