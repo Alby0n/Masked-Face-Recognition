@@ -33,9 +33,11 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
-
-
-## Contributing
+## Contributors
+ - [Aby Stalin](https://github.com/Alby0n)
+ - [Akshit Sudheer Kumar](https://github.com/4k5h1t)
+ - [Akhbar Sha](https://github.com/AkhbarSha)
+ - [Shrish Nandakumar](https://github.com/shrishn)
 
 Contributions are always welcome!
 
