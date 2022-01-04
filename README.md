@@ -1,5 +1,6 @@
 
 # Masked Face Regonition
+![Alt Text](https://media.giphy.com/media/3o7abnQiguzMTaYlOM/giphy.gif)
 
 We should be able to identify subjects from CCTV footages even
 when there are only limited number of photographs available for the
