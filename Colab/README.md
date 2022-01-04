@@ -6,8 +6,8 @@ This is a how to guide on running the masked face recognition tool on Colaborato
 
 ## Deployment
 
-To deploy this project run
-[![Colab](https://img.shields.io/badge/Colab-3c3c3b?style=for-the-badge&logo=GoogleColab&logoColor=)](https://colab.research.google.com/)
+To deploy this project we need
+[![Colab](https://img.shields.io/badge/Colab-3c3c3b?style=for-the-badge&logo=GoogleColab&logoColor=)](https://colab.research.google.com/) and
 [![G-drive](https://img.shields.io/badge/Google_Drive-3c3c3b?style=for-the-badge&logo=GoogleDrive&logoColor=)](https://drive.google.com/drive/my-drive)
 
   - Upload the folder G-Drive into your personal google drive account.
