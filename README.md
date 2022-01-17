@@ -32,9 +32,11 @@ Install these libraries
 ## Features
 
 - Recognition at varying angles
+![varying angle](https://user-images.githubusercontent.com/73681462/149826524-e1a221e7-53b5-40af-ae2a-04f7a2a1b117.png)
 - Recognition of people wearing surgical masks due to covid-19
+![mask face](https://user-images.githubusercontent.com/73681462/149826097-e46d0394-2835-4b20-9a57-7d1aa72634ac.png)
 - Identifying using limited suspect images
-- No training requied to be done on dataset 
+- No training requied to be done on dataset (dynamic recognition)
 
 
 ## Contributing
