@@ -1,10 +1,10 @@
 from tensorflow.keras.models import model_from_json
 def faceRecognizer():
-    json_file = open('/content/gdrive/MyDrive/G-Drive/model_data/model.json', 'r') #loading the json file
+    json_file = open('../MyDrive/G-Drive/model_data/model.json', 'r') #loading the json file
     loaded_model_json = json_file.read() #loading the json file
     json_file.close()
     model = model_from_json(loaded_model_json)
-    model.load_weights('/content/gdrive/MyDrive/G-Drive/model_data/model.h5')
+    model.load_weights('../G-Drive/model_data/model.h5')
     FRmodel = model
     def img_to_encoding(image_path, model): #Function to convert the image to the 128 length vector encoding
         img = tf.keras.preprocessing.image.load_img(image_path, target_size=(160, 160)) #Resizing the image to 160x160

@@ -1,6 +1,6 @@
 def frameExtractor():
     if os.path.exists('images'):
-        shutil.rmtree('/content/gdrive/MyDrive/G-Drive/images') #Deleting existing directory to remove garbage files
+        shutil.rmtree('../G-Drive/images') #Deleting existing directory to remove garbage files
     cam = cv2.VideoCapture(vid) # video file input
 #   face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')  
     try:

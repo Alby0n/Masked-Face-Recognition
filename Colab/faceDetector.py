@@ -1,7 +1,7 @@
 from faceRecognizer import who_is_it
 import cv2
 def faceDetector(image):
-    base_dir = os.path.dirname('!pwd')#setting up the base dir to access files
+    base_dir = os.path.dirname(os.getcwd())#setting up the base dir to access files
     prototxt_path = os.path.join(base_dir + 'model_data/deploy.prototxt') #The .prototxt file(s) which define the model architecture (i.e., the layers themselves)
     caffemodel_path = os.path.join(base_dir + 'model_data/weights.caffemodel') #The .caffemodel file which contains the weights for the actual layer
 
