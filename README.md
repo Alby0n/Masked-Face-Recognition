@@ -18,7 +18,6 @@ To deploy this project there are 2 options :
 
 
 
-
 ## Prerequisites
 Install these libraries 
 
