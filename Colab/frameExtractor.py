@@ -13,7 +13,7 @@ def frameExtractor():
     while (True):
         ret, frame = cam.read()
         if ret:
-            frameExtractor(frame)
+            frameDetector(frame)
             # name = './images/frame' + str(currentframe) + '.jpg' #name of the file to be saved
             # print('Creating...' + name) #Creating frame by frame
             # cv2.imwrite(name, frame) #saving the frame to the folder images

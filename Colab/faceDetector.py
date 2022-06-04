@@ -7,8 +7,6 @@ def faceDetector(image):
 
   # Read the model
     model = cv2.dnn.readNetFromCaffe(prototxt_path, caffemodel_path) #loading the model
-
-
   
   # Create directory 'faces' if it does not exist
     if not os.path.exists('faces'):
