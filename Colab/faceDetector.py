@@ -44,6 +44,7 @@ def faceDetector(image):
             realMen="/content/gdrive/MyDrive/G-Drive/Temp Folder/"+id
             realMen=cv2.imread(realMen)
             Flg=True
+            cv2.imwrite(base_dir + 'faces/'   + "gen.jpg", frame)#Detected face
             return image,frame,realMen,id
                       
     except:
