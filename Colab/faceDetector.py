@@ -36,7 +36,7 @@ def faceDetector(image):
         if (confidence > 0.15):
           count += 1
           frame = image[startY:endY, startX:endX] #cropping the face
-                  
+           cv2.imwrite(base_dir + 'faces/'   + "gen.jpg", frame)#Detected face to be saved in a folder        
           nope,id=who_is_it(frame, database, FRmodel)#Passing detected faces for recognition
                     
 
