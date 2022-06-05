@@ -13,7 +13,7 @@ To deploy this project we need
   - Upload the folder G-Drive into your personal google drive account.
   - Open **Masked_facerecogntion_UI.ipynb** and follow the guidelines mentioned in the notebook.
 
-
+ 
 
 ## Authors
 
