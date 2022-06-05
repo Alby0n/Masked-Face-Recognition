@@ -1,8 +1,4 @@
-# UnMasked
-
-Unmasking peoples' faces using image inpainting.
-
-github: github.com/sveatlo/unmasked
+# Unmasking peoples' faces using image inpainting implemented with GAN.
 
 ## Training
 1. Download dataset images to `./dataset/celeba/images`
